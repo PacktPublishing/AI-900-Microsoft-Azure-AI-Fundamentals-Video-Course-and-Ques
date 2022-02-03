@@ -1,0 +1,7 @@
+<<<< Clone Github files to ML Service >>>>
+
+!git clone https://github.com/MicrosoftLearning/mslearn-ai900
+
+<<<< Install Computer Vision package >>>>
+
+! pip install azure-cognitiveservices-vision-computervision
